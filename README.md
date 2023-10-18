@@ -1,4 +1,4 @@
-# SpendShareApp
+# SpendShareApp (Codigo privado)
 
 <h2>1. Título del Proyecto.</h2>
 
